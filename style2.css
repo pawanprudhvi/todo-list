@@ -1,0 +1,65 @@
+.navbar-expand-lg
+{
+    margin-bottom:50px;
+}
+
+.container-fluid
+{
+    margin-top:20px;
+    width:100%;
+    color:10px 0px 20px 40px rgba(50, 50, 71, 0.05);
+}
+  nav
+  {
+      border-radius: 1%;
+      width:100%;
+      color:white;
+      height:40px;
+      background-color: black;
+      text-decoration: none;
+      margin-right: 20px;
+
+
+  }
+  .login
+  {
+      margin:20px 20px 20px 20px;
+      
+  }
+  nav a{
+    color:white;
+    padding:10px;
+    margin-right:20px;
+    float:right;
+    text-decoration: none;
+    background: transparent;
+
+  }
+
+.row
+{
+    width:100%;
+    position:relative;
+    
+
+
+}
+.pawan1
+{
+    margin:10px;
+    font-weight:1000;
+    font-size:30px;
+}
+.pawan{
+    padding: 10px;
+    margin-left:70px;
+    box-shadow: 0px 49px 40px rgba(50, 50, 71, 0.05);
+    
+ 
+}
+
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1rem;
+    font-weight: 400;
+}
